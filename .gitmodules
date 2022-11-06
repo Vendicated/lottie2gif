@@ -1,0 +1,6 @@
+[submodule "LFE"]
+	path = LFE
+	url = https://gitdab.com/distok/LFE
+[submodule "rlottie"]
+	path = rlottie
+	url = https://github.com/Samsung/rlottie
