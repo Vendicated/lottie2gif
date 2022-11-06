@@ -8,6 +8,8 @@ Based on https://wf.lavatech.top/aves-tech-notes/the-nightmare-that-is-lottie-to
 
 ## Usage
 
+You need cmake, make, g++, ffmpeg, imagemagick
+
 ### One time setup
 
 ```sh
