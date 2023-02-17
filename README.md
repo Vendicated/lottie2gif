@@ -1,6 +1,6 @@
-# Apng2Gif
+# Lottie2Gif
 
-Script to convert apngs to gif because everything else is kinda ughhh to use
+Script to convert lotties to gif because everything else is kinda ughhh to use
 
 Just a wrapper script around Samsung's rlottie and LFE
 
